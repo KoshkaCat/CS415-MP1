@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/borissandra/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/borissandra/cs415/InfiniteMatrixStarter/Content/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/borissandra/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/borissandra/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/borissandra/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/borissandra/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Score.uasset",
+				"C:/Users/borissandra/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Health.uasset",
+				"C:/Users/borissandra/cs415/InfiniteMatrixStarter/Content/Blueprints/BP_HealthPack.uasset",
+				"C:/Users/borissandra/cs415/InfiniteMatrixStarter/Content/OldWest/Materials/LightGood.uasset",
+				"C:/Users/borissandra/cs415/InfiniteMatrixStarter/Content/OldWest/Materials/LightBad.uasset",
+				"C:/Users/borissandra/cs415/InfiniteMatrixStarter/Content/Blueprints/BP_Enemy.uasset",
+				"C:/Users/borissandra/cs415/InfiniteMatrixStarter/Content/Blueprints/BP_Bullet.uasset",
+				"C:/Users/borissandra/cs415/InfiniteMatrixStarter/Content/Blueprints/NewBlueprint.uasset",
+				"C:/Users/borissandra/cs415/InfiniteMatrixStarter/Content/OldWest/VOL4/Meshes/SM_Dry_Goods_NN_02g.uasset",
+				"C:/Users/borissandra/cs415/InfiniteMatrixStarter/Content/OldWest/Materials/LightBullet.uasset",
+				"C:/Users/borissandra/cs415/InfiniteMatrixStarter/Content/Blueprints/BP_Camera_Shake.uasset",
+				"C:/Users/borissandra/cs415/InfiniteMatrixStarter/Content/InfiniteMatrix/Meshes/Bullet.uasset",
+				"C:/Users/borissandra/cs415/InfiniteMatrixStarter/Content/OldWest/Materials/Light.uasset"
+			]
+		}
+	]
+}
